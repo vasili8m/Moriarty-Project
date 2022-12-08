@@ -4,5 +4,5 @@ pyvirtualdisplay==0.2.5
 requests==2.22.0
 undetected_chromedriver==1.4.2
 clint==0.5.1
-certifi==2020.4.5.1
+certifi==2022.12.7
 bs4==0.0.1
